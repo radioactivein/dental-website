@@ -1,0 +1,33 @@
+#insta{
+    position: relative;
+    padding: 10px;
+    height: 600px;
+    background-color: rgb(245, 245, 245);
+}
+.left-cnt{
+    display: flex;
+    gap: 10px;
+    justify-content: flex-start;
+}
+.right-cnt{
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+}
+.left-float{
+    position: relative;
+    top: 50px;
+}
+
+.right-float{
+    position: relative;
+    top: 50px;
+}
+
+.centre-float{
+    position: absolute;
+    bottom: 50px;
+    left: 43%;
+    width: 150px !important;
+    height: 250px;
+}
