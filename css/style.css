@@ -31,3 +31,42 @@
     width: 150px !important;
     height: 250px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.instagram{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+.instagram img{
+    width: 300px;
+    height: 400px;
+}
+
+.centre-img{
+
+}
+
+.mt-50{
+    margin-top: 50px;
+}
+
+
+img{
+    height: 350px;
+    width: 300px;
+}
